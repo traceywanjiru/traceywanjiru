@@ -15,7 +15,7 @@
 
 ## About Me
 - 📖 I'm currently learning **Computer Programming** at **IYF**
-- ⭐Fun Fact: I want to major in cybersecurity so I am learning programming to be able to make my own hacking tools.
+- ⭐Fun Fact: I want to major in cybersecurity so I am learning programming to be able to make my own hacking tools and other stuff.
 
 ## Setup
 ```text
@@ -26,17 +26,4 @@ filter.lfs.required=true
 user.name=Tracey Wanjiru
 user.email=traceywanjiru2005@gmail.com
 
-<!--
-**traceywanjiru/traceywanjiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
