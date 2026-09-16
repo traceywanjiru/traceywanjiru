@@ -14,10 +14,11 @@
   - Markdown
 
 ## About Me
-📖 I'm currently learning **Computer Programming** at **IYF**
-⭐Fun Fact: I want to major in cybersecurity so I am learning programming to be able to make my own hacking tools.
+- 📖 I'm currently learning **Computer Programming** at **IYF**
+- ⭐Fun Fact: I want to major in cybersecurity so I am learning programming to be able to make my own hacking tools.
 
 ## Setup
+```text
 filter.lfs.clean=git-lfs clean -- %f
 filter.lfs.smudge=git-lfs smudge -- %f
 filter.lfs.process=git-lfs filter-process
