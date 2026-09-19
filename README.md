@@ -1,4 +1,4 @@
-## Week 0: Environment Setup & Profile
+## Week 0: My Profile
 
 ## Author
 - **Name:** Tracey Wanjiru
