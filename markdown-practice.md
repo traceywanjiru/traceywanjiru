@@ -12,9 +12,9 @@ My goals this semester are to learn **Computer Programming**, to be able to *rea
  -Html
 
 ## Steps To Make A Commit in Git
-1. Check the status using the terminal by typing *git status* to see which files have been modified.
-2. Upload your commit to github by typing *git push* on your terminal.
-3. Add your modified files to the staging area by typing *git add* so Git knows which ones to include in the save.
+1. Check the status using the terminal by typing `git status` to see which files have been modified.
+2. Upload your commit to github by typing `git push`on your terminal.
+3. Add your modified files to the staging area by typing `git add` so Git knows which ones to include in the save.
 
 
 ## Table
