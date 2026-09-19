@@ -9,7 +9,7 @@ My goals this semester are to learn **Computer Programming** to be able to *read
 ## List Of Things I Want To Learn
 - Python
 - Javascript
- -Html
+- -Html
 
 ## Steps To Make A Commit in Git
 1. Check the status using the terminal by typing *git status* to see which files have been modified.
