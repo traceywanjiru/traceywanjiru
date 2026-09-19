@@ -1,6 +1,6 @@
 ## My Learning Goals
 ### This Semester
-My goals this semester are to learn **Computer Programming** to be able to *read and write code* to get good at both `frontend and backend` and to make my first website.
+My goals this semester are to learn **Computer Programming**, to be able to *read and write code*, to get good at both `frontend and backend` and to make my first website.
 
 ## Links
 - https://github.com/traceywanjiru/traceywanjiru
