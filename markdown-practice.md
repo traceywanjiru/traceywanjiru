@@ -43,9 +43,10 @@ print("Mr.Robot")
 ## About Me
 - I want to major in **Cybersecurity** which is why I'm currently learning *Programming* at `IYF.`
 - Here is a link to the first website I've made so far  https://traceywanjiru.github.io/
+  
 - At the end of the season I want to:
 1. Be able to read and write code.
-2. Be able to build a functinal website.
+2. Be able to build a functional website.
 3. Be good at programming.
 
 The best advice I'd give someone is to:
