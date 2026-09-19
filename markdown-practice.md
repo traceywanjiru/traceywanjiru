@@ -3,8 +3,8 @@
 My goals this semester are to learn **Computer Programming** to be able to *read and write code* to get good at both `frontend and backend` and to make my first website.
 
 ## Links
-https://github.com/traceywanjiru/traceywanjiru
-https://www.freecodecamp.org/
+- https://github.com/traceywanjiru/traceywanjiru
+- https://www.freecodecamp.org/
 
 ## List Of Things I Want To Learn
 - Python
