@@ -29,4 +29,5 @@ user.email=traceywanjiru2005@gmail.com
 
 ## Links
 https://traceywanjiru.github.io/  <br>
-https://github.com/traceywanjiru/traceywanjiru/blob/main/markdown-practice.md
+https://github.com/traceywanjiru/traceywanjiru/blob/main/markdown-practice.md <br>
+https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito
