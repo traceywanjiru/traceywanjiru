@@ -26,7 +26,7 @@ A passionate software engineering student at **IYF** specializing in web develop
 
 | Week | Description | Repository | Live Demo |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | HTML & Web Foundations | [iyf-s12-week-01](https://traceywanjiru.github.io/iyf-s12-week-01-traceywanjiru/) | [View Site](https://traceywanjiru.github.io/iyf-s12-week-01/) |
+| **Week 1** | HTML & Web Foundations | [iyf-s12-week-01] | [https://traceywanjiru.github.io/iyf-s12-week-01-traceywanjiru/](https://traceywanjiru.github.io/iyf-s12-week-01/) |
 | **Week 2** | CSS Styling & Layouts | [iyf-s12-week-02](https://github.com/traceywanjiru/iyf-s12-week-02) | [View Site](https://traceywanjiru.github.io/iyf-s12-week-02/) |
 | **Week 3** | Advanced Git & Shell Automation | [iyf-s12-week-03](https://github.com/traceywanjiru/iyf-s12-week-03-traceywanjiru) | [View Site](https://traceywanjiru.github.io/iyf-s12-week-03-traceywanjiru/) |
 
