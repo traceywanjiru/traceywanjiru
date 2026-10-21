@@ -1,33 +1,45 @@
-## Week 0: My Profile
+# Hi there, I'm Tracey Wanjiru! 👋
 
-## Author
-- **Name:** Tracey Wanjiru
+A passionate software engineering student at **IYF** specializing in web development and aspiring cybersecurity specialist.
+
+---
+
+### 🚀 Tech Stack
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
+### 🧠 About Me & Currently Learning
+- 📖 Currently learning **Computer Programming & Software Engineering** at **IYF**
+- 🛡️ **Career Goal:** Aspiring to major in cybersecurity and build my own security & automated testing tools.
+- ⚡ **This Week's Focus:** Mastering Git branch workflows, merge conflict resolutions, shell scripting, and command-line search utilities (`grep`, `find`, `wc`).
+
+---
+
+### 📌 Featured Repositories & Live Portfolios
+
+| Week | Description | Repository | Live Demo |
+| :--- | :--- | :--- | :--- |
+| **Week 1** | HTML & Web Foundations | [iyf-s12-week-01](https://github.com/traceywanjiru/iyf-s12-week-01) | [View Site](https://traceywanjiru.github.io/iyf-s12-week-01/) |
+| **Week 2** | CSS Styling & Layouts | [iyf-s12-week-02](https://github.com/traceywanjiru/iyf-s12-week-02) | [View Site](https://traceywanjiru.github.io/iyf-s12-week-02/) |
+| **Week 3** | Advanced Git & Shell Automation | [iyf-s12-week-03](https://github.com/traceywanjiru/iyf-s12-week-03-traceywanjiru) | [View Site](https://traceywanjiru.github.io/iyf-s12-week-03-traceywanjiru/) |
+
+---
+
+### 📊 GitHub Stats
+
+![Tracey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=traceywanjiru&show_icons=true&theme=radial)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=traceywanjiru&layout=compact&theme=radial)
+
+---
+
+### 📫 Connect With Me
 - **GitHub:** [@traceywanjiru](https://github.com/traceywanjiru)
-- **Date:** September 16, 2026
-
-## Project Description
-  Setting up my local development environment, configuring Git and my Github profile repository for season 12.
-
-## Technologies used
-  - Git & Github
-  - Vs code
-  - Markdown
-
-## About Me
-- 📖 I'm currently learning **Computer Programming** at **IYF**
-- ⭐Fun Fact: I want to major in cybersecurity so I am learning programming to be able to make my own hacking tools and other stuff.
-
-## Setup
-```text
-filter.lfs.clean=git-lfs clean -- %f
-filter.lfs.smudge=git-lfs smudge -- %f
-filter.lfs.process=git-lfs filter-process
-filter.lfs.required=true
-user.name=Tracey Wanjiru
-user.email=traceywanjiru2005@gmail.com
-```
-
-## Links
-https://traceywanjiru.github.io/  
-https://github.com/Nyakito/iyf-s12-week-00-team-Nyakito
+- **Live Portfolio:** [traceywanjiru.github.io](https://traceywanjiru.github.io/)
 
